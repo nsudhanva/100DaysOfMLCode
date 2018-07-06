@@ -4,7 +4,7 @@
 
 This is a progress report of my pledge to [Siraj Raval's](https://www.youtube.com/watch?v=cuQMBj1cWPo) #100DaysofMLCode challenge. I will be updating here to links, activities of my work involving Machine Learning. Let's roll!
 
-Link to my pledge: [here]()
+Link to my pledge: [here](https://www.linkedin.com/feed/update/urn:li:activity:6420854361001422848)
 
 # Day 0: July 06, 2018
 
