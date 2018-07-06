@@ -6,13 +6,13 @@ This is a progress report of my pledge to [Siraj Raval's](https://www.youtube.co
 
 Link to my pledge: [here](https://www.linkedin.com/feed/update/urn:li:activity:6420854361001422848)
 
-# Day 0: July 06, 2018
+## Day 0: July 06, 2018
 
-Work:
+Work: Optimising power consumption of home appliances, study on Regularisation and Feature engineering
 
-Thoughts:
+Thoughts: It was to fun to start off 100DaysOfMLCode. It was difficult to manipulate pandas using custom functions
 
-Link to work:
+Link to work: [Github](www.github.com/nsudhanva/home)
 
 # Author
 
