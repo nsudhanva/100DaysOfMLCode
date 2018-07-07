@@ -14,6 +14,17 @@ Thoughts: It was to fun to start off 100DaysOfMLCode. It was difficult to manipu
 
 Link to work: [Github](www.github.com/nsudhanva/home)
 
+## Day 1: July 07, 2018
+
+Work: 
+1. Optimising power consumption of home appliances, applied regression and plotted graphs of power consumption
+2. Created new dataset for power consumption by date, time, month 
+3. Devices columns are added and new priority database of devices and weather is created 
+
+Thoughts: Because the data in randomly generated, the graphs look similar and symmetric in nature. Will change as real dataset is provided.
+
+Link to work: [Github](www.github.com/nsudhanva/home)
+
 # Author
 
 [Sudhanva Narayana](www.sudhanva.in)
