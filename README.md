@@ -25,6 +25,14 @@ Thoughts: Because the data in randomly generated, the graphs look similar and sy
 
 Link to work: [Github](www.github.com/nsudhanva/home)
 
+## Day 2: July 08, 2018
+
+Work: 
+1. Study on GridSearch CV
+2. Started the book Hands on Machine Learning with Tensorflow and Scikit
+
+Thoughts: Machine Learning is more complicated than expected. The book that I am reading is pretty awesome!
+
 # Author
 
 [Sudhanva Narayana](www.sudhanva.in)
