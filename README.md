@@ -37,6 +37,16 @@ Thoughts: Machine Learning is more complicated than expected. The book that I am
 
 [Sudhanva Narayana](www.sudhanva.in)
 
+## Day 3: July 09, 2018
+
+Work: 
+1. Coded custom algorithm to optimise power consumption of home appliances
+2. Plotted power consumption rates and minimised power consumption based on priority
+
+Thoughts: Data generated is run across different trails and multiple regression algorithms are applied
+
+Link to work: [Github](www.github.com/nsudhanva/home)
+
 # Credits
 
 [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
