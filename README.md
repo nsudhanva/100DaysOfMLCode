@@ -33,10 +33,6 @@ Work:
 
 Thoughts: Machine Learning is more complicated than expected. The book that I am reading is pretty awesome!
 
-# Author
-
-[Sudhanva Narayana](www.sudhanva.in)
-
 ## Day 3: July 09, 2018
 
 Work: 
@@ -46,6 +42,23 @@ Work:
 Thoughts: Data generated is run across different trails and multiple regression algorithms are applied
 
 Link to work: [Github](www.github.com/nsudhanva/home)
+
+## Day 4: July 10, 2018
+
+Work: 
+1. Generated new datasets and applied machine learning algorithms on the previous project
+2. Results are calculated and power consumption is compared
+3. Started the course, Tensorflow for Beginners
+
+Thoughts: Tensorflow provides low level APIs and is much more complicated than expected. It also helps in creating custom machine learning models and algorithms
+
+Link to work: [Github](www.github.com/nsudhanva/home)
+
+---
+
+# Author
+
+[Sudhanva Narayana](www.sudhanva.in)
 
 # Credits
 
