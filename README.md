@@ -54,6 +54,16 @@ Thoughts: Tensorflow provides low level APIs and is much more complicated than e
 
 Link to work: [Github](www.github.com/nsudhanva/home)
 
+## Day 5: July 11, 2018
+
+Work: 
+1. Measured real data of Electrical Impedance Tomography
+2. New dataset is created for both male and female candidates
+3. Understood a couple of TensorFlow tutorials
+
+Thoughts: EIT has high potential and can be used to classify affected human areas
+
+Link to work: [Github](www.github.com/nsudhanva/home)
 ---
 
 # Author
