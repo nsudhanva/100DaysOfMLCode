@@ -64,6 +64,16 @@ Work:
 Thoughts: EIT has high potential and can be used to classify affected human areas
 
 Link to work: [Github](www.github.com/nsudhanva/home)
+
+## Day 6: July 12, 2018
+
+Work: 
+1. Measured impedance of people and logged real data 
+2. Dataset is created and is pre-processed
+
+Thoughts: As the real data is small and has high distribution, further investigation and hypothesis has to be made
+
+Link to work: [Github](www.github.com/nsudhanva/home)
 ---
 
 # Author
