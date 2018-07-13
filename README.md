@@ -74,6 +74,18 @@ Work:
 Thoughts: As the real data is small and has high distribution, further investigation and hypothesis has to be made
 
 Link to work: [Github](www.github.com/nsudhanva/home)
+
+## Day 7: July 13, 2018
+
+Work: 
+1. Analysed parameters for dataset
+2. Read through multiple research papers for measuring impedance from people
+3. Study on reccurent neural networks and convolutional neural networks
+
+Thoughts: As the real data is small and has high distribution, further investigation and hypothesis has to be made
+
+Link to work: [Github](www.github.com/nsudhanva/home)
+Link to work: [Github](www.github.com/nsudhanva/eit)
 ---
 
 # Author
