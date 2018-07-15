@@ -86,6 +86,18 @@ Thoughts: As the real data is small and has high distribution, further investiga
 
 Link to work: [Github](www.github.com/nsudhanva/home)
 Link to work: [Github](www.github.com/nsudhanva/eit)
+
+## Day 8: July 14, 2018
+
+Work: 
+1. Participated in Target-HR Hackathon 12 hr hackathon
+2. Had to analyse and interpret results for a book dataset 
+3. Completed the task given in time
+
+Thoughts: One of the best hackathon I have ever been to. Kudos to Target HR for the great hackathon!
+
+Link to work: [Github](www.github.com/nsudhanva/target-hr-hackathon)
+
 ---
 
 # Author
