@@ -98,6 +98,38 @@ Thoughts: One of the best hackathon I have ever been to. Kudos to Target HR for 
 
 Link to work: [Github](www.github.com/nsudhanva/target-hr-hackathon)
 
+## Day 9: July 15, 2018
+
+Work: 
+1. Studied basics of Recurrent neural networks
+2. Trained a model on Convolutional Neural networks 
+
+Thoughts: Tensorflow GPU is much much faster than Tensorflow CPU
+
+Link to work: [Github](www.github.com/nsudhanva/)
+
+## Day 10: July 16, 2018
+
+Work: 
+1. Wrote documnetation for my project at work
+2. Prepared a presentation for the same 
+3. Tested out some code to understand a couple of custom functions
+
+Thoughts: Documentation is boring but important!
+
+Link to work: [Github](www.github.com/nsudhanva/eit/docs)
+
+## Day 11: July 17, 2018
+
+Work: 
+1. Wrote report for the Home automation project
+2. Learnt about stock trading using Machine Learning 
+3. Completed presentation given previously
+
+Thoughts: Stock trading using Machine Learning has huge potential and opened my mind
+
+Link to work: [Github](www.github.com/nsudhanva/eit/docs)
+
 ---
 
 # Author
