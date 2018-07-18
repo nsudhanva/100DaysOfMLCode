@@ -130,6 +130,17 @@ Thoughts: Stock trading using Machine Learning has huge potential and opened my 
 
 Link to work: [Github](www.github.com/nsudhanva/eit/docs)
 
+## Day 12: July 18, 2018
+
+Work: 
+1. Prepared presentation for the Electrical Impedance Tomography Project
+2. Read about feature selection and feature engineering
+3. Started writing research paper on home automation devices
+
+Thoughts: Writing research paper by using MS Word is a difficult skill!
+
+Link to work: [Github](www.github.com/nsudhanva/eit/docs)
+
 ---
 
 # Author
