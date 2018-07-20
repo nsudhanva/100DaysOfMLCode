@@ -141,6 +141,28 @@ Thoughts: Writing research paper by using MS Word is a difficult skill!
 
 Link to work: [Github](www.github.com/nsudhanva/eit/docs)
 
+## Day 13: July 19, 2018
+
+Work: 
+1. Completed two courses on datacamp
+2. Network analysis using NetworkX API 
+3. Research paper on home automation devices
+
+Thoughts: Network analysis is awesome!!
+
+Link to work: [Github](www.github.com/nsudhanva/home/docs)
+
+## Day 14: July 20, 2018
+
+Work: 
+1. Joining data using SQL on DataCamp
+2. Research paper on home automation devices
+3. Study on Neural Networks on Fast AI
+
+Thoughts: 
+
+Link to work: [Github](www.github.com/nsudhanva/)
+
 ---
 
 # Author
