@@ -159,10 +159,20 @@ Work:
 2. Research paper on home automation devices
 3. Study on Neural Networks on Fast AI
 
-Thoughts: 
+Thoughts: Lots of work to do on Deep Learning
 
 Link to work: [Github](www.github.com/nsudhanva/)
 
+## Day 15: July 21, 2018
+
+Work: 
+1. Completed Research Paper
+2. Study on Regression evalution metrics
+3. Applied Regression evalution metrics to home database
+
+Thoughts: Mean Absolute Error, Mean Squared Error, RMSE are intersting metrics
+
+Link to work: [Github](www.github.com/nsudhanva/home)
 ---
 
 # Author
