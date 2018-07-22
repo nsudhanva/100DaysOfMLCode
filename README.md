@@ -172,7 +172,17 @@ Work:
 
 Thoughts: Mean Absolute Error, Mean Squared Error, RMSE are intersting metrics
 
-Link to work: [Github](www.github.com/nsudhanva/home)
+Link to work: [Github](www.github.com/nsudhanva/home
+
+## Day 16: July 22, 2018
+
+Work: 
+1. Study on Matrices and Vectors
+2. Study on Neural Networks
+
+Thoughts: Mathematics is really important for Machine Learning
+
+Link to work: [Github](www.github.com/nsudhanva/)
 ---
 
 # Author
