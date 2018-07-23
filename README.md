@@ -193,6 +193,7 @@ Work:
 Thoughts: DataCamp is a great place to get started for Machine Learning
 
 Link to work: [DataCamp](https://www.datacamp.com/statement-of-accomplishment/track/551e08147586c6fa56850e8f301ba3c3d8c0f604)
+
 ---
 
 # Author
