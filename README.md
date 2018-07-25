@@ -204,6 +204,16 @@ Thoughts: It's always great to write research papers
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/home)
 
+## Day 19: July 25, 2018
+
+Work: 
+1. Read about IBM Quantum computing and its applications
+2. Started working on previously created booking app 
+
+Thoughts: Quantum computing and AI can do amazing things
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
 ---
 
 # Author
