@@ -214,6 +214,16 @@ Thoughts: Quantum computing and AI can do amazing things
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/)
 
+## Day 20: July 26, 2018
+
+Work: 
+1. Finishing up internship work
+2. Started watching Deep Learning AZ 
+
+Thoughts: Quantum computing and AI can do amazing things
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
 ---
 
 # Author
