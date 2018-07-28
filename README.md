@@ -220,7 +220,26 @@ Work:
 1. Finishing up internship work
 2. Started watching Deep Learning AZ 
 
-Thoughts: Quantum computing and AI can do amazing things
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
+## Day 21: July 27, 2018
+
+Work: 
+1. Finishing up internship work
+2. Finished report and presentation. Last day of work
+
+Thoughts: Internship was awesome!
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
+## Day 22: July 28, 2018
+
+Work: 
+1. Started predictive analytics course
+2. Continue watching Deep Learning AZ 
+3. Started Affine Analytics Challenge ML
+
+Thoughts: Predictive analytics is awesome
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/)
 
