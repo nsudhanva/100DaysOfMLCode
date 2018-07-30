@@ -243,6 +243,22 @@ Thoughts: Predictive analytics is awesome
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/)
 
+## Day 23: July 29, 2018
+
+Work: 
+1. Continue watching Deep Learning AZ 
+2. Previous Code and Starting new project on Data Preprocessing
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
+## Day 24: July 30, 2018
+
+Work: 
+1. Continue watching Deep Learning AZ 
+2. Discuss possible machine learning projects from biotech department
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
 ---
 
 # Author
