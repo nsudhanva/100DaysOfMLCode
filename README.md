@@ -259,6 +259,21 @@ Work:
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/)
 
+## Day 25: August 1, 2018
+
+Work: 
+1. Continue watching Deep Learning AZ 
+2. Study on AWS Machine Learning
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
+## Day 26: August 2, 2018
+
+Work: 
+1. Continue watching Deep Learning AZ 
+2. Study on LMS and Machine Learning for education 
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
 ---
 
 # Author
