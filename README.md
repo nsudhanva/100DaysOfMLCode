@@ -274,6 +274,31 @@ Work:
 2. Study on LMS and Machine Learning for education 
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
+## Day 27: August 3, 2018
+
+Work: 
+1. Finished watching Deep Learning AZ 
+2. Taught SQL to a class of 100
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
+## Day 28: August 4, 2018
+
+Work: 
+1. Taught Advanced SQL to a class of 100
+2. Study on Recommendation Systems
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
+## Day 29: August 5, 2018
+
+Work: 
+1. Study on Recommendation Systems
+2. Completed the course from Lynda on Recommendation systems - basics
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
 ---
 
 # Author
