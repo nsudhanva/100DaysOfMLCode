@@ -299,6 +299,15 @@ Work:
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/)
 
+## Day 29: August 6, 2018
+
+Work: 
+1. Study on Recommendation Systems
+2. Started recommendation systems using pandas course
+3. Tried to implement and relate recommendation systems to assignments
+
+Link to work: [GitHub](https://www.github.com/nsudhanva/)
+
 ---
 
 # Author
