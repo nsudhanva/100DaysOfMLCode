@@ -316,6 +316,22 @@ Work:
 
 Link to work: [GitHub](https://www.github.com/nsudhanva/)
 
+## Day 32: August 8, 2018
+
+Work: 
+1. Study on SVD
+2. Data Analysis for all user and his assingment-submission timings
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 33: August 9, 2018
+
+Work: 
+1. Architect datapoints for DCT platform
+2. Implemented SVD to recommend related assignments
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
