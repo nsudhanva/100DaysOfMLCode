@@ -332,6 +332,29 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 34: August 10, 2018
+
+Work: 
+1. SQL to analyze and understand data
+2. Merge and Join data with sql and then pandas
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 35: August 11, 2018
+
+Work: 
+1. Architect datapoints for DCT platform
+2. Analyze and recommend assignments for students based on another assignment
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 36: August 12, 2018
+
+Work: 
+1. Study on Apriori ML algorithms
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
