@@ -355,6 +355,36 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 37: August 13, 2018
+
+Work: 
+1. Built a recommendation system for recommending assignments to students using SVD
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 38: August 14, 2018
+
+Work: 
+1. Built a recommendation system for recommending assignments to students using KNN
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 39: August 15, 2018
+
+Work: 
+1. Study on AWS machine learning
+2. Study on recommendation systems using Implicit and Explicit feedback systems
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 40: August 16, 2018
+
+Work: 
+1. Built a recommendation system using Implicit feedback system 
+2. Used implicit library to improve sparse matrix computation
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
