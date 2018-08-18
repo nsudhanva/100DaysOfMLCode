@@ -385,6 +385,21 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 40: August 17, 2018
+
+Work: 
+1. Built a recommendation system API to serve for DCT Platform
+2. API runs on Flask and is deployed to heroku
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 40: August 18, 2018
+
+Work: 
+1. Study on Explicit recommendation systems
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
