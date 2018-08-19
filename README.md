@@ -400,6 +400,14 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 41: August 19, 2018
+
+Work: 
+1. Study on Explicit recommendation systems
+2. Retrained model to match with assignments instead of submissions
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
