@@ -408,7 +408,7 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
-## Day 42: August 19, 2018
+## Day 42: August 20, 2018
 
 Work: 
 1. Study on Implicit recommendation systems
@@ -416,7 +416,7 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
-## Day 43: August 19, 2018
+## Day 43: August 21, 2018
 
 Work: 
 1. Used a new confidence metric system to evalute student behavior
