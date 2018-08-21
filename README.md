@@ -408,6 +408,22 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 42: August 19, 2018
+
+Work: 
+1. Study on Implicit recommendation systems
+2. Deployed Flask model to Heroku and built and API around it
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 43: August 19, 2018
+
+Work: 
+1. Used a new confidence metric system to evalute student behavior
+2. Deployed new model to Heroku and tested for correctness
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
