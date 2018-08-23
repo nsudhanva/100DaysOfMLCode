@@ -424,6 +424,22 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 44: August 22, 2018
+
+Work: 
+1. API keys and authentication setup for code app
+2. Bug fixes and exception handling for the API
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 45: August 23, 2018
+
+Work: 
+1. Setup API ends points to render json on recommendations
+2. Explore new options on recommendations for assignments
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
