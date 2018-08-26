@@ -440,6 +440,29 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 46: August 24, 2018
+
+Work: 
+1. Reorder folders and made a common model folder
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 47: August 25, 2018
+
+Work: 
+1. Wrote documentation on ML API
+2. Minor changes on model
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 48: August 26, 2018
+
+Work: 
+1. Changes to documentation to the DCT ML API
+2. Added new algorithm to the request and number of assingments exception fix
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
