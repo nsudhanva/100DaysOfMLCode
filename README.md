@@ -463,6 +463,29 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 49: August 27, 2018
+
+Work: 
+1. Setting up AWS and SageMaker for Jupyter Notebooks
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 50: August 28, 2018
+
+Work: 
+1. Changes to documentation to the DCT ML API
+2. Retrain the model and push the code to Heroku API
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 51: August 29, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
 ---
 
 # Author
