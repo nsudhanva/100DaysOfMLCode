@@ -486,6 +486,106 @@ Work:
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
+## Day 52: August 30, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 53: August 31, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 54: September 1, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 55: September 2, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 56: September 3, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 57: September 4, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 58: September 5, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 59: September 6, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 60: September 7, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 61: September 8, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 62: September 9, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+## Day 63: September 10, 2018
+
+Work: 
+1. Gave a presentation on Recommendation Systems and API
+2. Started writing Research Paper on the same project
+
+Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
+
+
+
+
+
 ---
 
 # Author
