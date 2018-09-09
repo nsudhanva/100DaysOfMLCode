@@ -577,8 +577,8 @@ Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 ## Day 63: September 10, 2018
 
 Work: 
-1. Gave a presentation on Recommendation Systems and API
-2. Started writing Research Paper on the same project
+1. Started learning Node JS
+2. Understood the life cycle of a Javascript app
 
 Link to work: [GitHub DCT](https://www.github.com/dctacademy/dct)
 
